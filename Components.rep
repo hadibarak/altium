@@ -1,0 +1,118 @@
+CSV text has been written to file : Components.csv
+
+Library Component Count : 111
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+24C1024             2-Wire Serial EEPROM
+24CXX               2-Wire Serial EEPROM
+24CXXX              2-Wire Serial EEPROM
+4078                8-Input NOR/OR Gate
+4N37                General Purpose Type Photocoupler
+7-segment-2-digit   2 Digit Seven Segment
+7400                Quad 2-Input NAND Gate, 14-Pin PDIP
+7402                Quad 2-Input NOR Gate, 14-Pin PDIP
+7404                Hex Inverter, 14-Pin PDIP
+74266               Quad 2-Input XNOR Gate with Open-Collector Output, 14-Pin PDIP
+7432                Quad 2-Input OR Gate, 14-Pin PDIP
+74HC125M            Quad Bus Buffer (3-State)
+74HC138             3-to-8 line decoder/demultiplexer
+74HC245             Octal bus tranceiver; 3-state
+74HC4017            Decade Counter / Divider
+74HC4050            Hex Buffer/Converter Non-Inverting
+74HC595             74 Series
+74HC7244            Octal Bus Buffer with 3 State Outputs (Non Inverted)
+74HC75              4-Bit D-Type Latch
+ADS1230             
+AMS1117-1.5         AMS1117-1.5 Fixed Regulator
+AMS1117-3.3         AMS1117-3.3 Fixed Regulator
+AMS1117-5           AMS1117-5 Fixed Regulator
+AMS1117-ADJ         AMS1117-ADJ Adjustable Regulator
+Array Resistor      Array Resistor
+Battery             Battery
+Buzzer              Piezo Buzzer
+CH340G              
+Capacitor           Capacitor (non polarized)
+Capacitor ElectrolyticCapacitor (ploarized)
+Capacitor Variable  Variable or Adjustable Capacitor
+DS1307              64 X 8 Serial Real-Time Clock
+DS2401              Silicon Serial Number
+ENC28J60            Stand-Alone Ethernet Controller with SPI Interface
+EV1527              OTP Encoder
+FT232RL             FT232R USB UART IC
+FT232RQ             FT232R USB UART IC
+Fuse                Fuse
+HCC4051BF           Analog Multiplexer/Demultiplexer
+HCC4067BF           Analog Multiplexer/Demultiplexer
+HT1628B             DVD LED Driver IC
+HT9032D             Calling Line Identification Receiver
+ICL7107             3 1/2 Digit, LCD/LED Display, A/D Converters
+IR2153              Self-Oscillating Half-Bridge Driver
+ISD17xx             Multi Message Single Chip Voice Record & Playback
+Inductor            Inductor
+KPS-8201            Single Digit Seven Segment
+L298N               Dual Full Bridge Driver
+L9950xp             
+LC7363J             DTMF/PULSE Switchable Dialer
+LF33ABP             500mA, Very Low Drop (0.45V) Voltage Regulator
+LM2576-12           SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220
+LM2576-15           SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220
+LM2576-3.3          SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220
+LM2576-5            SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220
+LM2576-ADJ          SIMPLE SWITCHER® 3A Step-Down Voltage Regulator, 5-pin TO-220
+LM2596-12           SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
+LM2596-15           SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
+LM2596-3.3          SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
+LM2596-5            SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
+LM2596-ADJ          SIMPLE SWITCHER® 3A Step-Down Voltage Regulator
+LM317T              3-Terminal Adjustable Regulator, 3-pin TO-220
+LM324AN             Low-Power Quad Operational Amplifier
+LM338               5-Amp Adjustable Regulators
+LM339               Quad Comparator
+LM350               3-Terminal 3A Adjustable Regulator, 3-pin TO-220
+LM358AN             Low-Power Dual Operational Amplifier
+LM7805              3-Terminal Positive Voltage Regulators, 3-pin TO-220
+LM7809              3-Terminal Positive Voltage Regulators, 3-pin TO-220
+LM7812              3-Terminal Positive Voltage Regulators, 3-pin TO-220
+LM7815              3-Terminal Positive Voltage Regulators, 3-pin TO-220
+LM7818              3-Terminal Positive Voltage Regulators, 3-pin TO-220
+MAX232              MAX232x Dual EIA-232 Drivers/Receivers
+MAX485              Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceivers
+MCP2551             High-Speed CAN Transceiver
+MCP41010            Single Digital Potentiometer with SPI Interface
+MT8880CS            Integrated DTMF Transceiver
+Micro SD            
+NE555N              General-Purpose Single Bipolar Timer
+NE556N              General-Purpose Dual Bipolar Timer
+OP07CP              Ultra-Low Offset Voltage Operational Amplifier
+PC817               High Density Mounting Type Photocoupler
+PCF8591             8-bit A/D and D/A converter
+PCF8593             Low power clock and calendar
+POT                 Trim Potentiometer
+Reed Switch         Single contact reed switch
+Resistor            Resistor
+SN74HCT08           Quadruple 2-Input Positive-AND Gate
+Sim Card Holder     
+Single Seven Segment
+TD62083AFG          Eight Darlington Array
+TJA1055             Enhanced fault-tolerant CAN transceiver
+TLE4279             5V low drop fixed voltage regulator
+TLP181GB            GaAs Ired & Photo-Transistor
+TLP250              
+UA741AN             General-Purpose Single Operational Amplifier
+ULN2001A            Seven Darlington Array
+ULN2002A            Seven Darlington Array
+ULN2003A            Seven Darlington Array
+ULN2004A            Seven Darlington Array
+ULN2065B            80 V -1.5 A Quad Darlington Switch
+ULN2069B            80 V -1.5 A Quad Darlington Switch
+ULN2803A            Eight Darlington Array
+VNH2SP30            Automotive fully integrated H-bridge motor driver - 30A
+VNH5019a            Automotive fully integrated H-bridge motor driver
+W25Q32FVSSIG        SERIAL FLASH MEMORY WITH DUAL/QUAD SPI & QPI
+W91580              24-MEMORY TONE/PULSE SWITCHABLE DIALER WITH HANDFREE AND HOLD FUNCTIONS
+WS2811              Signal line 256 Gray level 3 channal Constant current LED drive IC
+XPT2046             Touch Screen Controller
+XR2206              Monolithic Function Generator
+XTAL                Crystal Oscillator

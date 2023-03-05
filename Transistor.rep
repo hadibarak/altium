@@ -1,0 +1,25 @@
+CSV text has been written to file : Transistor.csv
+
+Library Component Count : 18
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+2N3904              NPN General Purpose Amplifier
+2N7002              N-Channel Enhancement Mode Field Effect Transistor
+2SD1047             NPN General Purpose Amplifier
+BC546               NPN General-purpose Transistor
+BC547               NPN General-purpose Transistor
+BC548               NPN General-purpose Transistor
+BC557               PNP General-purpose Transistor
+BCP69T1G            PNP Silicon Epitaxial Transistor
+BSS138              N-Channel Logic Level Enhancement Mode Field Effect Transistor
+C945                NPN General-purpose Transistor
+FDS4410             10A, 30V, 0.02 Ohm, N-Channel Power MOSFET
+IRF840              8A, 500V, 0.850 Ohm, N-Channel Power MOSFET
+MJ13003             High voltage fast-switching NPN power transistor
+MMBT5401LT1G        PNP Signal Transistor
+MMBT5551LT1G        NPN Signal Transistor
+TIP122              Darlington Silicon Power NPN Transistor, 8 Amp, 100 Volts and 65 Watts
+TIP41               NPN Epitaxial Silicon Transistor
+TIP42               PNP General-purpose Transistor
